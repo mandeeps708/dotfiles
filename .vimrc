@@ -103,6 +103,8 @@ Bundle 'Wombat'
 Bundle 'YankRing.vim'
 " True Sublime Text style multiple selection
 Bundle 'terryma/vim-multiple-cursors'
+" Git wrapper
+Bundle 'tpope/vim-fugitive'
 " ============================================================================
 " Install plugins the first time vim runs
 
