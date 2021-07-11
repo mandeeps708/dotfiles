@@ -1,26 +1,4 @@
-##							##
-##	CONFIGURATION FILE FOR MUTT, ONLY FOR GMAIL.	##
-##########################################################
 
-#######################################
-############ EDIT FROM HERE ###########
-#######################################
-
-#YOUR USERNAME OF GMAIL without @gmail.com
-set imap_user = "lckbruce"
-#
-# ENTER YOUR GMAIL ACCOUNT IN PLACE OF "user"
-set smtp_url = "smtp://lckbruce@smtp.gmail.com:587/"
-#
-# AGAIN ENTER YOUR EMAIL
-set from = "lckbruce@gmail.com"
-#
-# YOUR FULL NAME, IT WILL APPEAR TO RECIEVER
-set realname = "Chun Kit Bruce Lam"
-#
-# YOUR TEXT EDITOR 
-set editor = "nano"
-#
 #######################################
 ############ EDIT UPTO HERE ###########
 #######################################
